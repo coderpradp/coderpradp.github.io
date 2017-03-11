@@ -37,6 +37,10 @@ header {
 	width: 100%;
 }
 
+#wrapper {
+	clear: both;
+}
+
 #logo {
 	text-align: center;
 	margin: 0;
@@ -95,7 +99,7 @@ footer {
 	text-align: center;
 	clear: both;
 	padding-top: 50px;
-	color: #ccc;
+	color: #32673f;
 }
 
 .social-icon {
@@ -148,7 +152,7 @@ PAGE: ABOUT
 
 
 /***************************************
-PAGE: PORTFOLIO
+PAGE: CONTACT
 ***************************************/
 
 .contact-info {
